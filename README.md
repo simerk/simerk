@@ -10,7 +10,7 @@
 
 I'm passionate about transforming raw data into meaningful insights and solving real-world business problems through data. I enjoy solving analytical challenges, writing clean and efficient SQL, exploring datasets, building dashboards, and working on end-to-end analytics projects.
 
-I also love solving SQL challenges on LeetCode and HackerRank—not just to prepare for interviews, but because I genuinely enjoy breaking down complex problems into simple, elegant solutions.
+I also love solving SQL challenges on LeetCode and HackerRank, not just to prepare for interviews, but because I genuinely enjoy breaking down complex problems into simple, elegant solutions.
 
 This GitHub is where I share my learning journey, personal projects, and solutions as I continue to grow as a data professional.
 
