@@ -29,6 +29,7 @@ Outside of work, you'll often find me solving SQL challenges, building personal 
   <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=21A366"/>
   <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
   <img src="https://img.shields.io/badge/Amazon_Redshift-0D1117?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF"/>
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </p>
 
